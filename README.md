@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**chenyunbo-cyb/chenyunbo-cyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is **chenyunbo-cyb/chenyunbo-cyb**  ✨ Welcome to my world! ✨ 
 
 Here are some ideas to get you started:
 
