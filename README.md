@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![Cyb's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenyunbo-cyb)](https://github.com/chenyunbo-cyb/github-readme-stats)
+![Cyb's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenyunbo-cyb)
+
