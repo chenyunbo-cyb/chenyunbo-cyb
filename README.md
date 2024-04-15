@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 
 
 ![info](https://github-readme-stats.vercel.app/api?username=CasterWx&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+[![Cyb's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenyunbo-cyb)](https://github.com/chenyunbo-cyb/github-readme-stats)
